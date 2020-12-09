@@ -1,4 +1,4 @@
-### I am amazing and let's leave it at that!
+![I am amazing and let's leave it at that](https://user-images.githubusercontent.com/37085550/101688745-afa79e00-3a29-11eb-9367-6657b21f2fc1.gif)
 
 <!--
 **AMax23/AMax23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
