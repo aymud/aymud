@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am amazing and let's leave it at that!
 
 <!--
 **AMax23/AMax23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
